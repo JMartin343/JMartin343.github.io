@@ -1,0 +1,19 @@
+/* practicing styles*/
+body {
+	background-color: #8BE8CB; 
+	font: #DA4167;
+}
+h1{
+	font-family: Arial;
+	text-decoration: underline;
+}
+img{
+	width: 50%;
+	height: 40%;
+}
+a{
+	text-decoration: none;
+}
+ul li{
+	list-style-type: none;
+}
